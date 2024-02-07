@@ -1,7 +1,7 @@
-# building-meteorological-dashboards-training
+# The use of API's fpr dashboard development
 
 
-![alt text](data/images/partners.svg)
+![alt text](../images/partners.svg)
 
 **EN** (Trouvez la traduction en français ci-dessous)
 
