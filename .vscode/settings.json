@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**cache**": true,
+        "*/.ipynb_checkpoints": true,
+        "**.ipynb_checkpoints": true,
+        "**/.ipynb_checkpoints/**": true,
+
+    }
+}

@@ -5,7 +5,7 @@
     "customizations": {
       "codespaces": {
         "openFiles": [
-          "GEE.ipynb"
+          "README.md"
         ]
       },
       "vscode": {
@@ -17,4 +17,4 @@
           "ms-toolsai.jupyter-renderers"       ]
       }
     }
-  }
+}

@@ -1,0 +1,14 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+python-dateutil
+requests
+ipykernel
+solara
+ipyleaflet
+altair
+openmeteo-requests
+requests-cache 
+retry-requests
+python-dotenv
