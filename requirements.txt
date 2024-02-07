@@ -1,2 +1,7 @@
+ipyleaflet
 earthengine-api
 geemap
+scipy
+matplotlib
+numpy
+pandas
