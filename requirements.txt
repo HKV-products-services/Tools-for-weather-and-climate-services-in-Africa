@@ -5,3 +5,6 @@ scipy
 matplotlib
 numpy
 pandas
+ipykernel
+
+
