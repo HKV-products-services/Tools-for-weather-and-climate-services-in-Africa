@@ -2,8 +2,8 @@
 
 ![alt text](images/partners.svg)
 
-## Chapters
+## Table of Contents
 
-### 1. The use of API's for dashboard development
-### 2. Historic precipitation analysis through GEE
-### 3. Accessing precipitation observations and nowcasts
+- [Chapter 1: The Use of APIs for Dashboard Development](#chapter-1-the-use-of-apis-for-dashboard-development)
+- [Chapter 2: Historic Precipitation Analysis through GEE](#chapter-2-historic-precipitation-analysis-through-gee)
+- [Chapter 3: Accessing Precipitation Observations and Nowcasts](#chapter-3-accessing-precipitation-observations-and-nowcasts)
