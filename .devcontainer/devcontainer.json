@@ -16,6 +16,8 @@
     //       "ms-toolsai.jupyter",
     //       "ms-toolsai.jupyter-keymap",
     //       "ms-toolsai.jupyter-renderers"       ]
-    //   }
+    //    "jupyter.widgetScriptSources": [
+             "unpkg.com",
+             "jsdelivr.com"      ]}
     // }
 }
