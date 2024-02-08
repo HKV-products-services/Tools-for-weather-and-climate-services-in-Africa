@@ -1,6 +1,15 @@
 {
-    "name": "Python 3",
-    "image": "mcr.microsoft.com/devcontainers/python:1-3.10-bookworm",
+	"name": "Miniconda (Python 3)",
+	"build": { 
+		"context": "..",
+		"dockerfile": "Dockerfile"
+	},
+	"features": {
+		"ghcr.io/rocker-org/devcontainer-features/miniforge:1": {
+			"version": "latest",
+			"variant": "Mambaforge" }
+    },
+            
     "postCreateCommand": "python3 -m pip install -r requirements.txt",
     "forwardPorts": [8765]
     "customizations": {
@@ -21,3 +30,7 @@
              "jsdelivr.com"      ]}
     }
 }
+
+
+
+
