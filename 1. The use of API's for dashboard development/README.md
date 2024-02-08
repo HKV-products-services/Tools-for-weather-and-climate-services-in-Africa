@@ -1,6 +1,5 @@
 # The use of API's fpr dashboard development
 
-
 ![alt text](../images/partners.svg)
 
 **EN** (Trouvez la traduction en français ci-dessous)
