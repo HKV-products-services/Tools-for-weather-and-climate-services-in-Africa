@@ -19,3 +19,4 @@ jupyterlab
 xarray
 rioxarray
 cartopy
+netdf4
