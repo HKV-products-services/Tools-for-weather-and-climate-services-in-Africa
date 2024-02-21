@@ -16,3 +16,6 @@ requests-cache
 retry-requests
 python-dotenv
 jupyterlab
+xarray
+rioxarray
+cartopy
