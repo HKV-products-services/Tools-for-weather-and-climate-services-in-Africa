@@ -1,6 +1,5 @@
 ipykernel
 ipyleaflet
-earthengine-api
 geemap
 scipy
 ipywidgets
@@ -20,3 +19,4 @@ xarray
 rioxarray
 cartopy
 netdf4
+earthengine-api
