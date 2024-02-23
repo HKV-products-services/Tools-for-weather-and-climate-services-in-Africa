@@ -18,5 +18,5 @@ jupyterlab
 xarray
 rioxarray
 cartopy
-netdf4
+netcdf4
 earthengine-api
