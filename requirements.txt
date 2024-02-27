@@ -1,6 +1,5 @@
 ipykernel
 ipyleaflet
-earthengine-api
 geemap
 scipy
 ipywidgets
@@ -16,3 +15,8 @@ requests-cache
 retry-requests
 python-dotenv
 jupyterlab
+xarray
+rioxarray
+cartopy
+netcdf4
+earthengine-api
