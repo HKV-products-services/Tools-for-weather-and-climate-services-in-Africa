@@ -20,7 +20,7 @@
       "ms-toolsai.jupyter-renderers"
     ]
   },
-  "forwardPorts": [8888],
+  "forwardPorts": [8888, 443],
 
   "remoteEnv": {
     "NASA_USER": "v.glas@hkv.nl",
