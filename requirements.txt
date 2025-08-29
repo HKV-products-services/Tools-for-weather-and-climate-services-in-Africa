@@ -20,3 +20,13 @@ rioxarray
 cartopy
 netcdf4
 earthengine-api
+pyresample
+satpy
+geopandas
+dask
+pysteps
+opencv-python-headless
+tqdm
+h5py
+xarray
+cartopy
