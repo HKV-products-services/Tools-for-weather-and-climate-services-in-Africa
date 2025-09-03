@@ -23,7 +23,7 @@
   "forwardPorts": [8888, 443],
 
   "remoteEnv": {
-    "NASA_USER": "v.glas@hkv.nl",
-    "NASA_PASS": "HKV_amersfoort_VG1!"
+    "NASA_USER": "xxxxxxxx",
+    "NASA_PASS": "xxxxxxxx"
     }
 }
